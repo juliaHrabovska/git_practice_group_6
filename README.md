@@ -16,13 +16,13 @@ Each file is divided in two parts: test and text.
 ## The first task 
 The first task is to choose correct answer. 
 How we will do that? 
-   - In each group we have 3-4 persons. Each person should choose the question (ex. the first person takes 1 question, second - 2 question and so on). 
+   - In each group we have 5 persons. Each person should choose the question (ex. the first person takes 1 question, second - 2 question and so on). 
    - After that each person should create a separate branch (lets call branches like "**group_[group number]\_task_1\_[your second name]**")
 
       ![picture 2](https://github.com/juliaHrabovska/git_practice/blob/main/pictures/Picture%203.png "Create new branch") 
    - In your branch you should choose a correct answer for your question and remove incorrect answers. You can discuss it with your partners. 
    
-    `Note: work only with your question, don't remove other questions!!`
+    Note: work only with your question, don't remove other questions!!
    - After that you have to commit your changes (lets use the next pattern for commit message "**question [your question number] [your second name]**")
 
    ![picture 3](https://github.com/juliaHrabovska/git_practice/blob/main/pictures/Picture%204.png "Commit")
