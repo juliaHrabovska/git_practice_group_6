@@ -10,8 +10,7 @@ At the beginning you have to clone the repository to your local computer.  You c
 
 Or you can use Intellij Idea, File -> New -> Project from Version Control, past the https link (You can get it here) ![picture 1](https://github.com/juliaHrabovska/git_practice/blob/main/pictures/Picture%201.png "Where to find lint to the project")
 
-In the repository you will find 5 files. Each group should use an appropriate file (ex. group **1** uses test_file_**1**, group **2** - test_file_**2** and so on). 
-Each file is divided in two parts: test and text. 
+In the repository you will find a file. Each file is divided in two parts: test and text. 
 
 ## The first task 
 The first task is to choose correct answer. 
